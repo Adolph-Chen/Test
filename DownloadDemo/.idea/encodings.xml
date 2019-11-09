@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/Change.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/DownTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/DownloadPicture.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/GetHTML.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/GetImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/adolph/download/Task.java" charset="GBK" />
+  </component>
+</project>
